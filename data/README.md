@@ -8,11 +8,12 @@ at high resolution it does not leak materially into the fitted annulus, while
 at coarse resolution it is part of the benchmark's measured resolution bias.
 
 `kuiper_only_images/` is a controlled re-render from the same catalogue after
-selecting objects with semimajor axes `a >= 30 au`, as described for the
-manuscript's displayed Kuiper Belt and azimuthal figures. It is used only for
-those image figures, not to replace the exact profile-fit inputs after the
-fact. `SCIENTIFIC_VALIDATION.md` quantifies the resulting high-resolution
-control check.
+selecting objects with semimajor axes `a >= 30 au`. The sparse set of selected
+points projected within 20 au is also omitted from these display maps. These
+files are used only for the manuscript's displayed Kuiper Belt and azimuthal
+figures, not to replace the exact profile-fit inputs after the fact.
+`SCIENTIFIC_VALIDATION.md` quantifies the resulting high-resolution control
+check.
 
 Both sets originate from JPL Small-Body Database orbital elements downloaded
 on 2026-03-05, propagated to MJD 61104.61, azimuthally randomised as described
