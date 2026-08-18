@@ -1,0 +1,406 @@
+{
+  "metadata": {
+    "stellar_mass_msun": 1.0,
+    "stellar_mass_error_msun": 0.01,
+    "age_myr": 4570.0,
+    "age_error_myr": 50.0,
+    "asteroid_belt_outer_au": 4.0
+  },
+  "beams": {
+    "2": {
+      "median": {
+        "semimajor_axis_au": 34.14292058538379,
+        "semimajor_axis_up": 0.23308093781017225,
+        "semimajor_axis_down": 0.24807561575960446,
+        "mass_mearth": 21.53444284345323,
+        "mass_up": 0.22773107193662104,
+        "mass_down": 0.23065638857877327,
+        "stirring_eccentricity": 0.00013920518607771993,
+        "stirring_eccentricity_up": 4.257886639658396e-06,
+        "stirring_eccentricity_down": 3.908726038769085e-06
+      },
+      "pearce_wyatt": {
+        "semimajor_axis_au": 32.594552400761444,
+        "semimajor_axis_up": 0.22006766748524306,
+        "semimajor_axis_down": 0.23423947508389664,
+        "mass_mearth": 20.557864226260296,
+        "mass_up": 0.2163380754051595,
+        "mass_down": 0.21907828332953364,
+        "stirring_eccentricity": 0.00016760153603970036,
+        "stirring_eccentricity_up": 5.0887721078300305e-06,
+        "stirring_eccentricity_down": 4.675295037442654e-06
+      },
+      "all_clearance_models": {
+        "Wisdom (1980)": {
+          "semimajor_axis_au": 34.23111942607857,
+          "mass_mearth": 21.590071151203016
+        },
+        "Duncan et al. (1989)": {
+          "semimajor_axis_au": 33.862361944155886,
+          "mass_mearth": 21.35749037658248
+        },
+        "Gladman (1993)": {
+          "semimajor_axis_au": 34.1787730420688,
+          "mass_mearth": 21.55705551589141
+        },
+        "Malhotra (1998)": {
+          "semimajor_axis_au": 34.03577137441674,
+          "mass_mearth": 21.4668622580865
+        },
+        "Pearce & Wyatt (2014)": {
+          "semimajor_axis_au": 32.594552400761444,
+          "mass_mearth": 20.557864226260296
+        },
+        "Lazzoni et al. (2018)": {
+          "semimajor_axis_au": 34.23111942607857,
+          "mass_mearth": 21.590071151203016
+        },
+        "Morrison & Malhotra (2015)": {
+          "semimajor_axis_au": 34.14292058538379,
+          "mass_mearth": 21.53444284345323
+        }
+      },
+      "four_planet_chain": {
+        "semimajor_axes_au": [
+          4.0,
+          8.401292827890547,
+          17.645430294991293,
+          37.06110674558824
+        ],
+        "semimajor_axes_up": [
+          0.0,
+          0.019417659247796593,
+          0.08166098205912675,
+          0.2575691101910422
+        ],
+        "semimajor_axes_down": [
+          0.0,
+          0.020763146200540206,
+          0.08711085856949907,
+          0.2741024462063848
+        ],
+        "spacing_implied_mass_mearth": 20.34744334757289,
+        "spacing_implied_mass_up": 0.267694776322658,
+        "spacing_implied_mass_down": 0.2753475304641831,
+        "exact_equation_1_mass_mearth": 22.321075321388566,
+        "age_based_clearing_floor_mearth": 0.19747920393271595
+      }
+    },
+    "3": {
+      "median": {
+        "semimajor_axis_au": 34.115364707593535,
+        "semimajor_axis_up": 0.16344246900304787,
+        "semimajor_axis_down": 0.1701543544248849,
+        "mass_mearth": 21.52148564302896,
+        "mass_up": 0.21383527426676205,
+        "mass_down": 0.2143274035999536,
+        "stirring_eccentricity": 0.0001394587944384455,
+        "stirring_eccentricity_up": 2.9800176332659325e-06,
+        "stirring_eccentricity_down": 2.8223427408801194e-06
+      },
+      "pearce_wyatt": {
+        "semimajor_axis_au": 32.568543211725554,
+        "semimajor_axis_up": 0.15437942136104885,
+        "semimajor_axis_down": 0.1607232500123023,
+        "mass_mearth": 20.54568201610561,
+        "mass_up": 0.20341752647370953,
+        "mass_down": 0.2038902148139508,
+        "stirring_eccentricity": 0.00016790075227435006,
+        "stirring_eccentricity_up": 3.57311587443556e-06,
+        "stirring_eccentricity_down": 3.3864839856703964e-06
+      },
+      "all_clearance_models": {
+        "Wisdom (1980)": {
+          "semimajor_axis_au": 34.20344014795955,
+          "mass_mearth": 21.577047538426758
+        },
+        "Duncan et al. (1989)": {
+          "semimajor_axis_au": 33.83503748281294,
+          "mass_mearth": 21.344642792449108
+        },
+        "Gladman (1993)": {
+          "semimajor_axis_au": 34.15121857250728,
+          "mass_mearth": 21.54410385173351
+        },
+        "Malhotra (1998)": {
+          "semimajor_axis_au": 34.008280252329584,
+          "mass_mearth": 21.453932017666716
+        },
+        "Pearce & Wyatt (2014)": {
+          "semimajor_axis_au": 32.568543211725554,
+          "mass_mearth": 20.54568201610561
+        },
+        "Lazzoni et al. (2018)": {
+          "semimajor_axis_au": 34.20344014795955,
+          "mass_mearth": 21.577047538426758
+        },
+        "Morrison & Malhotra (2015)": {
+          "semimajor_axis_au": 34.115364707593535,
+          "mass_mearth": 21.52148564302896
+        }
+      },
+      "four_planet_chain": {
+        "semimajor_axes_au": [
+          4.0,
+          8.398990935732272,
+          17.635762184628224,
+          37.03065168335562
+        ],
+        "semimajor_axes_up": [
+          0.0,
+          0.013629409501570322,
+          0.05728308363236323,
+          0.1805664648724914
+        ],
+        "semimajor_axes_down": [
+          0.0,
+          0.014235080681812562,
+          0.059729497427483125,
+          0.18796593771445202
+        ],
+        "spacing_implied_mass_mearth": 20.326851614688103,
+        "spacing_implied_mass_up": 0.2370768792845355,
+        "spacing_implied_mass_down": 0.23978811989447796,
+        "exact_equation_1_mass_mearth": 22.298486261285642,
+        "age_based_clearing_floor_mearth": 0.1972358353618825
+      }
+    },
+    "5": {
+      "median": {
+        "semimajor_axis_au": 34.026298180903154,
+        "semimajor_axis_up": 0.0429020556756462,
+        "semimajor_axis_down": 0.0406384862204294,
+        "mass_mearth": 21.479586853454688,
+        "mass_up": 0.20019437232014786,
+        "mass_down": 0.19934255758914293,
+        "stirring_eccentricity": 0.00014332418365255932,
+        "stirring_eccentricity_up": 1.1794816294032765e-06,
+        "stirring_eccentricity_down": 1.1827690334791823e-06
+      },
+      "pearce_wyatt": {
+        "semimajor_axis_au": 32.48447394844237,
+        "semimajor_axis_up": 0.04092865918931886,
+        "semimajor_axis_down": 0.03882748517063613,
+        "mass_mearth": 20.50628827899139,
+        "mass_up": 0.19074887673725435,
+        "mass_down": 0.18997303337889862,
+        "stirring_eccentricity": 0.00017253409543406705,
+        "stirring_eccentricity_up": 1.4655994798795835e-06,
+        "stirring_eccentricity_down": 1.4670148793942587e-06
+      },
+      "all_clearance_models": {
+        "Wisdom (1980)": {
+          "semimajor_axis_au": 34.11397515202844,
+          "mass_mearth": 21.53493419410046
+        },
+        "Duncan et al. (1989)": {
+          "semimajor_axis_au": 33.74671896025061,
+          "mass_mearth": 21.303098476126753
+        },
+        "Gladman (1993)": {
+          "semimajor_axis_au": 34.06215634971571,
+          "mass_mearth": 21.502222834815917
+        },
+        "Malhotra (1998)": {
+          "semimajor_axis_au": 33.919423219097666,
+          "mass_mearth": 21.412120506914288
+        },
+        "Pearce & Wyatt (2014)": {
+          "semimajor_axis_au": 32.48447394844237,
+          "mass_mearth": 20.50628827899139
+        },
+        "Lazzoni et al. (2018)": {
+          "semimajor_axis_au": 34.11397515202844,
+          "mass_mearth": 21.53493419410046
+        },
+        "Morrison & Malhotra (2015)": {
+          "semimajor_axis_au": 34.026298180903154,
+          "mass_mearth": 21.479586853454688
+        }
+      },
+      "four_planet_chain": {
+        "semimajor_axes_au": [
+          4.0,
+          8.391542361525083,
+          17.604495801317494,
+          36.93221806751156
+        ],
+        "semimajor_axes_up": [
+          0.0,
+          0.003566523303362601,
+          0.01496749571387923,
+          0.047110150192644085
+        ],
+        "semimajor_axes_down": [
+          0.0,
+          0.00337796278790492,
+          0.0141703062570393,
+          0.04458254754531055
+        ],
+        "spacing_implied_mass_mearth": 20.260262807795115,
+        "spacing_implied_mass_up": 0.20509484102423398,
+        "spacing_implied_mass_down": 0.2048376348729359,
+        "exact_equation_1_mass_mearth": 22.22543856930634,
+        "age_based_clearing_floor_mearth": 0.19644992984791088
+      }
+    },
+    "10": {
+      "median": {
+        "semimajor_axis_au": 32.864092251912034,
+        "semimajor_axis_up": 0.017610722081194893,
+        "semimajor_axis_down": 0.016357100017345607,
+        "mass_mearth": 20.930253272921128,
+        "mass_up": 0.19426468876160058,
+        "mass_down": 0.19350816401766854,
+        "stirring_eccentricity": 0.00017625494341030366,
+        "stirring_eccentricity_up": 1.2354227564614295e-06,
+        "stirring_eccentricity_down": 1.2214051000649957e-06
+      },
+      "pearce_wyatt": {
+        "semimajor_axis_au": 31.38719770074489,
+        "semimajor_axis_up": 0.017579795265502917,
+        "semimajor_axis_down": 0.016488112144954097,
+        "mass_mearth": 19.98965899828744,
+        "mass_up": 0.18519395336649846,
+        "mass_down": 0.18450573337342788,
+        "stirring_eccentricity": 0.00021184474239300315,
+        "stirring_eccentricity_up": 1.5556492689963528e-06,
+        "stirring_eccentricity_down": 1.5366192002324883e-06
+      },
+      "all_clearance_models": {
+        "Wisdom (1980)": {
+          "semimajor_axis_au": 32.94662437670522,
+          "mass_mearth": 20.982815755457768
+        },
+        "Duncan et al. (1989)": {
+          "semimajor_axis_au": 32.59427575357633,
+          "mass_mearth": 20.758414428139186
+        },
+        "Gladman (1993)": {
+          "semimajor_axis_au": 32.89997163233338,
+          "mass_mearth": 20.953103881839137
+        },
+        "Malhotra (1998)": {
+          "semimajor_axis_au": 32.759977565332676,
+          "mass_mearth": 20.8639454393491
+        },
+        "Pearce & Wyatt (2014)": {
+          "semimajor_axis_au": 31.38719770074489,
+          "mass_mearth": 19.98965899828744
+        },
+        "Lazzoni et al. (2018)": {
+          "semimajor_axis_au": 32.94662437670522,
+          "mass_mearth": 20.982815755457768
+        },
+        "Morrison & Malhotra (2015)": {
+          "semimajor_axis_au": 32.864092251912034,
+          "mass_mearth": 20.930253272921128
+        }
+      },
+      "four_planet_chain": {
+        "semimajor_axes_au": [
+          4.0,
+          8.293152050327413,
+          17.194092732462448,
+          35.648306349435174
+        ],
+        "semimajor_axes_up": [
+          0.0,
+          0.0014544280378334662,
+          0.006031425272226443,
+          0.018758967422968453
+        ],
+        "semimajor_axes_down": [
+          0.0,
+          0.0013418380997674006,
+          0.005563583561784213,
+          0.017300966928409878
+        ],
+        "spacing_implied_mass_mearth": 19.386927827668902,
+        "spacing_implied_mass_up": 0.19429294206284145,
+        "spacing_implied_mass_down": 0.19422980475249976,
+        "exact_equation_1_mass_mearth": 21.267393101912226,
+        "age_based_clearing_floor_mearth": 0.1862954050806796
+      }
+    },
+    "20": {
+      "median": {
+        "semimajor_axis_au": 30.70588443281856,
+        "semimajor_axis_up": 0.2578718025078358,
+        "semimajor_axis_down": 0.04301348973136359,
+        "mass_mearth": 19.89672618593387,
+        "mass_up": 0.22255356414176092,
+        "mass_down": 0.1849831883159529,
+        "stirring_eccentricity": 0.0002627560044200824,
+        "stirring_eccentricity_up": 2.219967461166956e-06,
+        "stirring_eccentricity_down": 4.5638131683524944e-05
+      },
+      "pearce_wyatt": {
+        "semimajor_axis_au": 29.348153062578742,
+        "semimajor_axis_up": 0.24378927885666937,
+        "semimajor_axis_down": 0.04100374196228025,
+        "mass_mearth": 19.01694663206001,
+        "mass_up": 0.21146577576854134,
+        "mass_down": 0.17648884823753727,
+        "stirring_eccentricity": 0.00031485889866502185,
+        "stirring_eccentricity_up": 2.736413961523558e-06,
+        "stirring_eccentricity_down": 5.4672139577077334e-05
+      },
+      "all_clearance_models": {
+        "Wisdom (1980)": {
+          "semimajor_axis_au": 30.77913847656577,
+          "mass_mearth": 19.944193167503453
+        },
+        "Duncan et al. (1989)": {
+          "semimajor_axis_au": 30.454206984762553,
+          "mass_mearth": 19.733644829912397
+        },
+        "Gladman (1993)": {
+          "semimajor_axis_au": 30.741627487084852,
+          "mass_mearth": 19.919886885484505
+        },
+        "Malhotra (1998)": {
+          "semimajor_axis_au": 30.607029276961264,
+          "mass_mearth": 19.832670256443773
+        },
+        "Pearce & Wyatt (2014)": {
+          "semimajor_axis_au": 29.348153062578742,
+          "mass_mearth": 19.01694663206001
+        },
+        "Lazzoni et al. (2018)": {
+          "semimajor_axis_au": 30.77913847656577,
+          "mass_mearth": 19.944193167503453
+        },
+        "Morrison & Malhotra (2015)": {
+          "semimajor_axis_au": 30.70588443281856,
+          "mass_mearth": 19.89672618593387
+        }
+      },
+      "four_planet_chain": {
+        "semimajor_axes_au": [
+          4.0,
+          8.104198474779885,
+          16.41950822965615,
+          33.26673838785377
+        ],
+        "semimajor_axes_up": [
+          0.0,
+          0.023023746575104198,
+          0.09342702916542578,
+          0.2843352059689721
+        ],
+        "semimajor_axes_down": [
+          0.0,
+          0.0038336932030613724,
+          0.015530831003619738,
+          0.04718818839700134
+        ],
+        "spacing_implied_mass_mearth": 17.74381080660839,
+        "spacing_implied_mass_up": 0.26566423146926166,
+        "spacing_implied_mass_down": 0.18045395175611212,
+        "exact_equation_1_mass_mearth": 19.46489938501378,
+        "age_based_clearing_floor_mearth": 0.16794192449428236
+      }
+    }
+  }
+}

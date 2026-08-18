@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Solar-System debris-disc benchmark"
+message: "If you use this repository, please cite the accompanying manuscript and this software release."
+type: software
+version: 1.0.0
+date-released: 2026-08-18
+authors:
+  - family-names: Anil
+    given-names: Rishin Georgy
+  - family-names: Subramanian
+    given-names: Avaneesh
+  - family-names: Pearce
+    given-names: Tim D.
+repository-code: "https://github.com/1-minute-to-midnight/solar-system-debris-disc-benchmark"
+license: MIT

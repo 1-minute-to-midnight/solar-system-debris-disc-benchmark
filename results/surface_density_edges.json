@@ -1,0 +1,157 @@
+{
+  "2": {
+    "best_model": "Double Gaussian",
+    "inner": 37.06110674558824,
+    "inner_up": 0.2575691101910422,
+    "inner_down": 0.2741024462063848,
+    "outer": 47.11958698095852,
+    "outer_up": 0.11658861264552911,
+    "outer_down": 0.11175652637501798,
+    "half_max": 0.5037734296980702,
+    "valid_draws": 5000.0,
+    "ranking_bic": {
+      "Double Gaussian": -204.34004134381888,
+      "Triple Gaussian": -198.26982285393112,
+      "Triple power law": -184.55311186485184,
+      "Asymmetric Gaussian": -146.51031710422922,
+      "Power law + erf": -136.1872693219435,
+      "Gaussian": -135.22148894803442,
+      "Gaussian + double PL": -126.67596843476962,
+      "Double power law": -56.09277882024702
+    },
+    "ranking_aic": {
+      "Double Gaussian": -212.54381632373773,
+      "Triple Gaussian": -210.57548532380937,
+      "Triple power law": -192.7568868447707,
+      "Asymmetric Gaussian": -151.97950042417511,
+      "Power law + erf": -141.6564526418894,
+      "Gaussian": -139.32337643799383,
+      "Gaussian + double PL": -136.24703924467494,
+      "Double power law": -61.56196214019292
+    }
+  },
+  "3": {
+    "best_model": "Double Gaussian",
+    "inner": 37.03065168335562,
+    "inner_up": 0.1805664648724914,
+    "inner_down": 0.18796593771445202,
+    "outer": 47.10698255802042,
+    "outer_up": 0.0777130630786047,
+    "outer_down": 0.07597038012679747,
+    "half_max": 0.49943595584190265,
+    "valid_draws": 5000.0,
+    "ranking_bic": {
+      "Double Gaussian": -227.88326894752706,
+      "Triple Gaussian": -227.41835236833805,
+      "Triple power law": -176.78545990474814,
+      "Asymmetric Gaussian": -149.07351356892258,
+      "Power law + erf": -138.3701466990815,
+      "Gaussian": -137.2256616028362,
+      "Gaussian + double PL": -128.84552369618956,
+      "Double power law": -56.71654234211614
+    },
+    "ranking_aic": {
+      "Triple Gaussian": -239.7240148382163,
+      "Double Gaussian": -236.0870439274459,
+      "Triple power law": -184.98923488466698,
+      "Asymmetric Gaussian": -154.54269688886848,
+      "Power law + erf": -143.8393300190274,
+      "Gaussian": -141.3275490927956,
+      "Gaussian + double PL": -138.41659450609487,
+      "Double power law": -62.18572566206204
+    }
+  },
+  "5": {
+    "best_model": "Triple Gaussian",
+    "inner": 36.93221806751156,
+    "inner_up": 0.047110150192644085,
+    "inner_down": 0.04458254754531055,
+    "outer": 47.29104480263324,
+    "outer_up": 0.020418265404373415,
+    "outer_down": 0.01972940211214791,
+    "half_max": 0.5023131881722396,
+    "valid_draws": 4989.0,
+    "ranking_bic": {
+      "Triple Gaussian": -297.71437782336835,
+      "Double Gaussian": -267.3613878446282,
+      "Triple power law": -210.28033092369105,
+      "Asymmetric Gaussian": -151.78131471089176,
+      "Power law + erf": -140.13255908122653,
+      "Gaussian": -138.58298931732782,
+      "Gaussian + double PL": -130.8728580170782,
+      "Double power law": -55.63768556238594
+    },
+    "ranking_aic": {
+      "Triple Gaussian": -310.0200402932466,
+      "Double Gaussian": -275.56516282454703,
+      "Triple power law": -218.4841059036099,
+      "Asymmetric Gaussian": -157.25049803083766,
+      "Power law + erf": -145.60174240117243,
+      "Gaussian": -142.68487680728722,
+      "Gaussian + double PL": -140.4439288269835,
+      "Double power law": -61.10686888233184
+    }
+  },
+  "10": {
+    "best_model": "Double Gaussian",
+    "inner": 35.648306349435174,
+    "inner_up": 0.018758967422968453,
+    "inner_down": 0.017300966928409878,
+    "outer": 48.10353089065696,
+    "outer_up": 0.014638045418202239,
+    "outer_down": 0.013696368348270482,
+    "half_max": 0.4971484097494624,
+    "valid_draws": 5000.0,
+    "ranking_bic": {
+      "Double Gaussian": -331.9218887042444,
+      "Triple Gaussian": -326.0709598676904,
+      "Triple power law": -320.7096007973833,
+      "Asymmetric Gaussian": -195.99150729499763,
+      "Power law + erf": -192.94142500840758,
+      "Gaussian": -183.4814571546847,
+      "Gaussian + double PL": -175.33919112979854,
+      "Double power law": -52.57878797186072
+    },
+    "ranking_aic": {
+      "Double Gaussian": -340.1256636841632,
+      "Triple Gaussian": -338.3766223375687,
+      "Triple power law": -328.9133757773021,
+      "Asymmetric Gaussian": -201.46069061494353,
+      "Power law + erf": -198.41060832835348,
+      "Gaussian": -187.58334464464411,
+      "Gaussian + double PL": -184.91026193970384,
+      "Double power law": -58.04797129180662
+    }
+  },
+  "20": {
+    "best_model": "Triple Gaussian",
+    "inner": 33.26673838785377,
+    "inner_up": 0.2843352059689721,
+    "inner_down": 0.04718818839700134,
+    "outer": 49.67739636481976,
+    "outer_up": 0.0,
+    "outer_down": 2.0252662583721275,
+    "half_max": 0.5017832159353562,
+    "valid_draws": 3882.0,
+    "ranking_bic": {
+      "Triple Gaussian": -286.64304499720157,
+      "Triple power law": -260.59859506376085,
+      "Double Gaussian": -224.95567914090134,
+      "Asymmetric Gaussian": -187.61031026095048,
+      "Power law + erf": -169.71100968468417,
+      "Gaussian": -164.70969173512793,
+      "Gaussian + double PL": -151.24050840959143,
+      "Double power law": -47.4697269918592
+    },
+    "ranking_aic": {
+      "Triple Gaussian": -298.9487074670798,
+      "Triple power law": -268.8023700436797,
+      "Double Gaussian": -233.1594541208202,
+      "Asymmetric Gaussian": -193.07949358089638,
+      "Power law + erf": -175.18019300463007,
+      "Gaussian": -168.81157922508734,
+      "Gaussian + double PL": -160.81157921949674,
+      "Double power law": -52.938910311805095
+    }
+  }
+}
